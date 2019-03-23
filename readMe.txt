@@ -17,3 +17,7 @@ python 3 is required
 This project is made on python on my own mac, so with differences in OS or the versions of python, the project might NOT always work perfectly.
 
 You can install pygame at here: http://www.pygame.org/news
+
+
+Video about this project:
+https://www.youtube.com/watch?v=4ujIY0t3Xhg
