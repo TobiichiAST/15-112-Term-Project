@@ -1,0 +1,27 @@
+Credits:
+
+This project use the python module called pygame. All pygame functions come from the pygame documents at https://www.pygame.org/docs/
+
+
+Some functions are learned, though not directly copied or edited, from the pygame flappy bird project here https://github.com/sourabhv/FlapPyBird
+
+
+Some codes are from the flappy bird AI. I format my own code to his style because I don't know how to use json file to store and read information. http://sarvagyavaish.github.io/FlappyBirdRL/
+
+
+The game is trying to implement a game called "nidhogg". Some audios are from this game's resources. You can learn more about it here http://messhof.com/game/nidhogg/
+
+
+Q-learning from Wikipedia: https://en.wikipedia.org/wiki/Q-learning
+
+
+Image and Audio:
+http://ian-albert.com/games/super_mario_bros_maps/
+https://giphy.com/gifs/1416-hCWHKFyrhTO12
+https://www.deviantart.com/art/A-Few-Rainbow-Stars-Long-CustomBox-Background-354293089
+http://freevector.co/vector-icons/arrows/handmade-go-signal-with-right-arrow.html
+https://www.zapsplat.com/sound-effect-category/swords/
+https://www.youtube.com/watch?v=ssM5Ly5q5fU
+https://www.youtube.com/watch?v=sl_dMG9YFg0
+https://www.youtube.com/watch?v=3BsBXp6VkvU
+https://www.youtube.com/watch?v=wf0Ml6ppYGA
